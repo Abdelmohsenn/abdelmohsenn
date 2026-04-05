@@ -25,12 +25,12 @@ I am an AI Engineer focusing on bridging the gap between mathematical theory and
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Abdelmohsen's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelmohsenn&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmohsenn&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelmohsenn&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
