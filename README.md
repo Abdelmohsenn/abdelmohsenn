@@ -26,7 +26,6 @@ I am an AI Engineer focusing on bridging the gap between mathematical theory and
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=abdelmohsenn&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="170" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=abdelmohsenn&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170" />
 </p>
 
 <p align="center">
