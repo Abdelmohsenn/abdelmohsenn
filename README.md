@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelmohsen! 👋
+# Hi there, I'm Mohamed! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F9CF9&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Researcher" alt="Typing SVG" />
