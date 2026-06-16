@@ -7,8 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am an AI Engineer focusing on bridging the gap between mathematical theory and scalable AI applications. I hold a **B.S. in Computer Engineering with Honors** from **The American University in Cairo (AUC)**.
-
+I am an AI Engineer focusing on bridging the gap between mathematical theory and scalable AI applications.
 ---
 
 ### 🛠️ Tech Stack & Tools
