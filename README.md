@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelmohsenn&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelmohsenn&show_icons=true&hide_border=true&rank_icon=off&theme=radical" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=abdelmohsenn&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
