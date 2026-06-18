@@ -24,7 +24,6 @@
 
 - 🔭 I build **scalable, production-ready AI** — turning mathematical theory into real systems.
 - 🤖 Focused on **Deep Learning**, **Machine Learning Engineering**, and **MLOps**.
-- 🌱 Always shipping, always learning.
 - 📫 Reach me at **m.abdellmohsenn@gmail.com**
 
 <br>
