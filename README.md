@@ -84,7 +84,3 @@
 
 <!-- ====== FOOTER ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-<p align="center">
-  <i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i>
-</p>
