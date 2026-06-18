@@ -1,9 +1,9 @@
 <!-- ====== BANNER ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Abdelmohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Researcher&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Abdelmohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ====== TYPING ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9CF9&center=true&width=480&lines=Bridging+math+theory+%26+production+AI;Deep+Learning+Enthusiast;Computer+Vision+Researcher;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9CF9&center=true&width=480&lines=Bridging+math+theory+%26+production+AI;Deep+Learning+Enthusiast;AI+Engineer;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <!-- ====== SOCIAL / VISITORS ====== -->
@@ -22,17 +22,10 @@
 <!-- ====== ABOUT ====== -->
 ## 🧠 About Me
 
-```python
-class MohamedAbdelmohsen:
-    def __init__(self):
-        self.role        = "Machine Learning Engineer"
-        self.focus       = ["Deep Learning", "Computer Vision", "MLOps"]
-        self.mission     = "Turn mathematical theory into scalable, production-ready AI"
-        self.currently   = "Researching CV + deploying real ML systems"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent! 🚀")
-```
+- 🔭 I build **scalable, production-ready AI** — turning mathematical theory into real systems.
+- 🤖 Focused on **Deep Learning**, **Machine Learning Engineering**, and **MLOps**.
+- 🌱 Always shipping, always learning.
+- 📫 Reach me at **m.abdellmohsenn@gmail.com**
 
 <br>
 
@@ -85,11 +78,6 @@ class MohamedAbdelmohsen:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmohsenn&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=4F9CF9&langs_count=8" height="160" alt="Top Languages"/>
-</p>
-
-<!-- ====== CONTRIBUTION SNAKE (optional) ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdelmohsenn/abdelmohsenn/output/snake.svg" alt="snake animation"/>
 </p>
 
 <br>
