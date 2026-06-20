@@ -71,6 +71,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abdelmohsenn&show_icons=true&hide_border=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0F2027&title_color=4F9CF9&icon_color=4F9CF9" height="170" alt="GitHub Stats"/> -->
+  <img src="https://streak-stats.demolab.com?user=abdelmohsenn&theme=tokyonight&hide_border=true&background=0F2027&ring=4F9CF9&fire=4F9CF9&currStreakLabel=4F9CF9" height="170" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmohsenn&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=4F9CF9&langs_count=8" height="160" alt="Top Languages"/>
 </p>
 
